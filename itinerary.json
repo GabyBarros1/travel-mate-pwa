@@ -1,0 +1,948 @@
+{
+  "trips": [
+    {
+      "id": "dubai",
+      "name": "Dubai Cultural Journey",
+      "coverImage": "dubai-cover.jpg",
+      "coverCaption": "Traditional districts, creek heritage, and local cultural identity.",
+      "regionCenter": {
+        "lat": 25.2048,
+        "lon": 55.2708
+      },
+      "activities": [
+        {
+          "id": "dxb-act-1",
+          "poiId": "dxb-poi-1",
+          "title": "Al Fahidi Historical District Walk",
+          "day": 1,
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "priority": "must",
+          "location": {
+            "lat": 25.2637,
+            "lon": 55.2971
+          }
+        },
+        {
+          "id": "dxb-act-2",
+          "poiId": "dxb-poi-2",
+          "title": "Dubai Museum and Al Fahidi Fort",
+          "day": 1,
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "priority": "must",
+          "location": {
+            "lat": 25.263,
+            "lon": 55.2972
+          }
+        },
+        {
+          "id": "dxb-act-3",
+          "poiId": "dxb-poi-3",
+          "title": "Abra Crossing and Creek Culture Stop",
+          "day": 1,
+          "startTime": "12:00",
+          "endTime": "14:00",
+          "priority": "must",
+          "location": {
+            "lat": 25.2698,
+            "lon": 55.2995
+          }
+        },
+        {
+          "id": "dxb-act-4",
+          "poiId": "dxb-poi-4",
+          "title": "Jumeirah Mosque Cultural Visit",
+          "day": 1,
+          "startTime": "15:00",
+          "endTime": "17:00",
+          "priority": "optional",
+          "location": {
+            "lat": 25.2322,
+            "lon": 55.2608
+          }
+        },
+        {
+          "id": "dxb-act-5",
+          "poiId": "dxb-poi-5",
+          "title": "Al Shindagha Museum and Heritage Houses",
+          "day": 1,
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "priority": "must",
+          "location": {
+            "lat": 25.2669,
+            "lon": 55.2921
+          }
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "name": "New York Cultural Journey",
+      "coverImage": "ny-cover.jpg",
+      "coverCaption": "Civic icons, migration history, and world-class urban culture.",
+      "regionCenter": {
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "activities": [
+        {
+          "id": "nyc-d1-1",
+          "poiId": "nyc-poi-rockefeller",
+          "title": "Rockefeller Plaza",
+          "day": 1,
+          "startTime": "09:00",
+          "endTime": "09:40",
+          "priority": "must",
+          "location": {
+            "lat": 40.7587,
+            "lon": -73.9787
+          }
+        },
+        {
+          "id": "nyc-d1-2",
+          "poiId": "nyc-poi-radiocity",
+          "title": "Radio City Music Hall",
+          "day": 1,
+          "startTime": "09:40",
+          "endTime": "10:00",
+          "priority": "optional",
+          "location": {
+            "lat": 40.7599,
+            "lon": -73.9793
+          }
+        },
+        {
+          "id": "nyc-d1-3",
+          "poiId": "nyc-poi-topofrock",
+          "title": "Top of the Rock",
+          "day": 1,
+          "startTime": "10:00",
+          "endTime": "11:20",
+          "priority": "must",
+          "location": {
+            "lat": 40.7587,
+            "lon": -73.9787
+          }
+        },
+        {
+          "id": "nyc-d1-4",
+          "poiId": "nyc-poi-stpatrick",
+          "title": "St. Patrick's Cathedral",
+          "day": 1,
+          "startTime": "11:20",
+          "endTime": "11:45",
+          "priority": "must",
+          "location": {
+            "lat": 40.7585,
+            "lon": -73.976
+          }
+        },
+        {
+          "id": "nyc-d1-5",
+          "poiId": "nyc-poi-5thave",
+          "title": "5th Avenue Walk",
+          "day": 1,
+          "startTime": "11:45",
+          "endTime": "12:30",
+          "priority": "must",
+          "location": {
+            "lat": 40.7549,
+            "lon": -73.984
+          }
+        },
+        {
+          "id": "nyc-d1-6",
+          "poiId": "nyc-poi-nypl",
+          "title": "New York Public Library",
+          "day": 1,
+          "startTime": "12:30",
+          "endTime": "12:55",
+          "priority": "must",
+          "location": {
+            "lat": 40.7532,
+            "lon": -73.9822
+          }
+        },
+        {
+          "id": "nyc-d1-7",
+          "poiId": "nyc-poi-bryant",
+          "title": "Bryant Park (Lunch Zone)",
+          "day": 1,
+          "startTime": "12:55",
+          "endTime": "14:00",
+          "priority": "optional",
+          "location": {
+            "lat": 40.7536,
+            "lon": -73.9832
+          }
+        },
+        {
+          "id": "nyc-d1-8",
+          "poiId": "nyc-poi-centralpark",
+          "title": "Central Park",
+          "day": 1,
+          "startTime": "14:30",
+          "endTime": "16:30",
+          "priority": "must",
+          "location": {
+            "lat": 40.7712,
+            "lon": -73.9742
+          }
+        },
+        {
+          "id": "nyc-d1-9",
+          "poiId": "nyc-poi-timessq",
+          "title": "Times Square at Night",
+          "day": 1,
+          "startTime": "18:00",
+          "endTime": "20:00",
+          "priority": "must",
+          "location": {
+            "lat": 40.758,
+            "lon": -73.9855
+          }
+        },
+        {
+          "id": "nyc-d2-1",
+          "poiId": "nyc-poi-financial",
+          "title": "Financial District / Wall Street",
+          "day": 2,
+          "startTime": "09:30",
+          "endTime": "10:15",
+          "priority": "must",
+          "location": {
+            "lat": 40.7066,
+            "lon": -74.0098
+          }
+        },
+        {
+          "id": "nyc-d2-2",
+          "poiId": "nyc-poi-911",
+          "title": "9/11 Memorial",
+          "day": 2,
+          "startTime": "10:30",
+          "endTime": "11:15",
+          "priority": "must",
+          "location": {
+            "lat": 40.7115,
+            "lon": -74.0134
+          }
+        },
+        {
+          "id": "nyc-d2-3",
+          "poiId": "nyc-poi-ferry",
+          "title": "Staten Island Ferry (Statue View)",
+          "day": 2,
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "priority": "must",
+          "location": {
+            "lat": 40.7012,
+            "lon": -74.0132
+          }
+        },
+        {
+          "id": "nyc-d2-4",
+          "poiId": "nyc-poi-seaport",
+          "title": "South Street Seaport (Lunch)",
+          "day": 2,
+          "startTime": "13:30",
+          "endTime": "14:30",
+          "priority": "optional",
+          "location": {
+            "lat": 40.7062,
+            "lon": -74.0033
+          }
+        },
+        {
+          "id": "nyc-d2-5",
+          "poiId": "nyc-poi-bbridge",
+          "title": "Brooklyn Bridge Walk",
+          "day": 2,
+          "startTime": "15:00",
+          "endTime": "15:45",
+          "priority": "must",
+          "location": {
+            "lat": 40.7061,
+            "lon": -73.9969
+          }
+        },
+        {
+          "id": "nyc-d2-6",
+          "poiId": "nyc-poi-dumbo",
+          "title": "DUMBO Waterfront",
+          "day": 2,
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "priority": "must",
+          "location": {
+            "lat": 40.7033,
+            "lon": -73.9881
+          }
+        },
+        {
+          "id": "nyc-d2-7",
+          "poiId": "nyc-poi-gct",
+          "title": "Return to Grand Central",
+          "day": 2,
+          "startTime": "17:30",
+          "endTime": "18:30",
+          "priority": "optional",
+          "location": {
+            "lat": 40.7527,
+            "lon": -73.9772
+          }
+        },
+        {
+          "id": "nyc-d3-1",
+          "poiId": "nyc-poi-soho",
+          "title": "SoHo",
+          "day": 3,
+          "startTime": "09:45",
+          "endTime": "11:00",
+          "priority": "must",
+          "location": {
+            "lat": 40.7233,
+            "lon": -74.003
+          }
+        },
+        {
+          "id": "nyc-d3-2",
+          "poiId": "nyc-poi-chinatown",
+          "title": "Chinatown",
+          "day": 3,
+          "startTime": "11:15",
+          "endTime": "12:00",
+          "priority": "must",
+          "location": {
+            "lat": 40.7158,
+            "lon": -73.997
+          }
+        },
+        {
+          "id": "nyc-d3-3",
+          "poiId": "nyc-poi-chinatown",
+          "title": "Lunch in Chinatown / SoHo",
+          "day": 3,
+          "startTime": "12:15",
+          "endTime": "13:15",
+          "priority": "optional",
+          "location": {
+            "lat": 40.7158,
+            "lon": -73.997
+          }
+        },
+        {
+          "id": "nyc-d3-4",
+          "poiId": "nyc-poi-met",
+          "title": "The Metropolitan Museum of Art",
+          "day": 3,
+          "startTime": "13:30",
+          "endTime": "15:30",
+          "priority": "must",
+          "location": {
+            "lat": 40.7794,
+            "lon": -73.9632
+          }
+        },
+        {
+          "id": "nyc-d3-5",
+          "poiId": "nyc-poi-seinfeld",
+          "title": "Seinfeld Corner (Tom's Restaurant)",
+          "day": 3,
+          "startTime": "16:30",
+          "endTime": "16:50",
+          "priority": "optional",
+          "location": {
+            "lat": 40.8056,
+            "lon": -73.9669
+          }
+        },
+        {
+          "id": "nyc-d3-6",
+          "poiId": "nyc-poi-gct",
+          "title": "Return to Grand Central",
+          "day": 3,
+          "startTime": "17:30",
+          "endTime": "18:30",
+          "priority": "optional",
+          "location": {
+            "lat": 40.7527,
+            "lon": -73.9772
+          }
+        }
+      ]
+    },
+    {
+      "id": "buenos-aires",
+      "name": "Buenos Aires Cultural Journey",
+      "coverImage": "ba-cover.jpg",
+      "coverCaption": "Historic avenues, civic landmarks, and local porteño culture.",
+      "regionCenter": {
+        "lat": -34.6037,
+        "lon": -58.3816
+      },
+      "activities": [
+        {
+          "id": "ba-act-1",
+          "poiId": "ba-poi-1",
+          "title": "Plaza de Mayo and Civic Core",
+          "day": 1,
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "priority": "must",
+          "location": {
+            "lat": -34.6081,
+            "lon": -58.3702
+          }
+        },
+        {
+          "id": "ba-act-2",
+          "poiId": "ba-poi-2",
+          "title": "Casa Rosada Visit Stop",
+          "day": 1,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "priority": "must",
+          "location": {
+            "lat": -34.6081,
+            "lon": -58.3702
+          }
+        },
+        {
+          "id": "ba-act-3",
+          "poiId": "ba-poi-3",
+          "title": "San Telmo Market Walk",
+          "day": 1,
+          "startTime": "11:30",
+          "endTime": "13:00",
+          "priority": "must",
+          "location": {
+            "lat": -34.6211,
+            "lon": -58.3731
+          }
+        },
+        {
+          "id": "ba-act-4",
+          "poiId": "ba-poi-4",
+          "title": "Teatro Colon Exterior and Tour",
+          "day": 1,
+          "startTime": "15:00",
+          "endTime": "16:30",
+          "priority": "must",
+          "location": {
+            "lat": -34.601,
+            "lon": -58.3831
+          }
+        },
+        {
+          "id": "ba-act-5",
+          "poiId": "ba-poi-5",
+          "title": "Recoleta Cemetery and Cultural District",
+          "day": 1,
+          "startTime": "17:00",
+          "endTime": "19:00",
+          "priority": "must",
+          "location": {
+            "lat": -34.5875,
+            "lon": -58.3934
+          }
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "name": "Israel Cultural Journey",
+      "coverImage": "israel-cover.jpg",
+      "coverCaption": "7-day archaeological, biblical, and cultural route adapted from your Excel plan.",
+      "regionCenter": {
+        "lat": 31.7683,
+        "lon": 35.2137
+      },
+      "activities": [
+        {
+          "id": "is-day1-1",
+          "poiId": "is-poi-old-jaffa-1-1",
+          "title": "Old Jaffa",
+          "day": 1,
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.0545,
+            "lon": 34.7522
+          }
+        },
+        {
+          "id": "is-day1-2",
+          "poiId": "is-poi-jaffa-port-1-2",
+          "title": "Jaffa Port",
+          "day": 1,
+          "startTime": "11:15",
+          "endTime": "12:15",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.0507,
+            "lon": 34.7504
+          }
+        },
+        {
+          "id": "is-day1-3",
+          "poiId": "is-poi-flea-market-1-3",
+          "title": "Flea Market",
+          "day": 1,
+          "startTime": "12:30",
+          "endTime": "13:30",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.054,
+            "lon": 34.7585
+          }
+        },
+        {
+          "id": "is-day1-4",
+          "poiId": "is-poi-neve-tzedek-1-4",
+          "title": "Neve Tzedek",
+          "day": 1,
+          "startTime": "17:30",
+          "endTime": "18:45",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.0649,
+            "lon": 34.767
+          }
+        },
+        {
+          "id": "is-day1-5",
+          "poiId": "is-poi-florentin-1-5",
+          "title": "Florentin",
+          "day": 1,
+          "startTime": "20:00",
+          "endTime": "21:30",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.0561,
+            "lon": 34.7693
+          }
+        },
+        {
+          "id": "is-day2-6",
+          "poiId": "is-poi-caesarea-national-park-2-6",
+          "title": "Caesarea National Park",
+          "day": 2,
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://en.parks.org.il/reserve-park/caesarea-national-park/",
+          "location": {
+            "lat": 32.5045,
+            "lon": 34.8922
+          }
+        },
+        {
+          "id": "is-day2-7",
+          "poiId": "is-poi-german-colony-2-7",
+          "title": "German Colony",
+          "day": 2,
+          "startTime": "15:30",
+          "endTime": "16:30",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.8214,
+            "lon": 34.9896
+          }
+        },
+        {
+          "id": "is-day2-8",
+          "poiId": "is-poi-bah-gardens-2-8",
+          "title": "Bahá’í Gardens",
+          "day": 2,
+          "startTime": "17:00",
+          "endTime": "18:30",
+          "priority": "must",
+          "entryType": "Gratis (visita según modalidad)",
+          "ticketLink": "https://www.ganbahai.org.il/en/",
+          "location": {
+            "lat": 32.8169,
+            "lon": 34.9863
+          }
+        },
+        {
+          "id": "is-day2-9",
+          "poiId": "is-poi-haifa-waterfront-cena-2-9",
+          "title": "Haifa waterfront / cena",
+          "day": 2,
+          "startTime": "20:00",
+          "endTime": "21:30",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.8329,
+            "lon": 34.9985
+          }
+        },
+        {
+          "id": "is-day3-10",
+          "poiId": "is-poi-tel-megiddo-3-10",
+          "title": "Tel Megiddo",
+          "day": 3,
+          "startTime": "09:00",
+          "endTime": "11:30",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://en.parks.org.il/reserve-park/tel-megiddo-armageddon-national-park/",
+          "location": {
+            "lat": 32.5843,
+            "lon": 35.1832
+          }
+        },
+        {
+          "id": "is-day3-11",
+          "poiId": "is-poi-nazareth-village-3-11",
+          "title": "Nazareth Village",
+          "day": 3,
+          "startTime": "13:00",
+          "endTime": "15:00",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://nazarethvillage.com/plan-your-visit/tour-and-prices/",
+          "location": {
+            "lat": 32.6996,
+            "lon": 35.3035
+          }
+        },
+        {
+          "id": "is-day3-12",
+          "poiId": "is-poi-bas-lica-de-la-anunciaci-n-3-12",
+          "title": "Basílica de la Anunciación",
+          "day": 3,
+          "startTime": "16:30",
+          "endTime": "17:30",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.7044,
+            "lon": 35.2976
+          }
+        },
+        {
+          "id": "is-day3-13",
+          "poiId": "is-poi-cena-en-nazaret-traslado-a-tiber-ades-3-13",
+          "title": "Cena en Nazaret / traslado a Tiberíades",
+          "day": 3,
+          "startTime": "20:00",
+          "endTime": "21:30",
+          "priority": "optional",
+          "entryType": "—",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.6996,
+            "lon": 35.3035
+          }
+        },
+        {
+          "id": "is-day4-14",
+          "poiId": "is-poi-capernaum-ruinas-sinagoga-4-14",
+          "title": "Capernaum – ruinas + sinagoga",
+          "day": 4,
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://en.parks.org.il/reserve-park/kfar-nahum-capernaum-national-park/",
+          "location": {
+            "lat": 32.8804,
+            "lon": 35.5731
+          }
+        },
+        {
+          "id": "is-day4-15",
+          "poiId": "is-poi-tabgha-4-15",
+          "title": "Tabgha",
+          "day": 4,
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "priority": "must",
+          "entryType": "Gratis (donación/parking)",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.8729,
+            "lon": 35.5451
+          }
+        },
+        {
+          "id": "is-day4-16",
+          "poiId": "is-poi-mount-of-beatitudes-4-16",
+          "title": "Mount of Beatitudes",
+          "day": 4,
+          "startTime": "13:00",
+          "endTime": "13:45",
+          "priority": "must",
+          "entryType": "Gratis (parking puede aplicar)",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.884,
+            "lon": 35.5483
+          }
+        },
+        {
+          "id": "is-day4-17",
+          "poiId": "is-poi-magdala-4-17",
+          "title": "Magdala",
+          "day": 4,
+          "startTime": "15:30",
+          "endTime": "16:45",
+          "priority": "optional",
+          "entryType": "Variable",
+          "ticketLink": "https://www.magdala.org/plan-your-visit",
+          "location": {
+            "lat": 32.8308,
+            "lon": 35.5048
+          }
+        },
+        {
+          "id": "is-day4-18",
+          "poiId": "is-poi-paseo-tiberias-waterfront-cena-4-18",
+          "title": "Paseo Tiberias waterfront + cena",
+          "day": 4,
+          "startTime": "19:30",
+          "endTime": "21:30",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 32.79,
+            "lon": 35.5316
+          }
+        },
+        {
+          "id": "is-day5-19",
+          "poiId": "is-poi-bet-she-an-national-park-5-19",
+          "title": "Bet She’an National Park",
+          "day": 5,
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://en.parks.org.il/reserve-park/bet-shean-national-park/",
+          "location": {
+            "lat": 32.4996,
+            "lon": 35.498
+          }
+        },
+        {
+          "id": "is-day5-20",
+          "poiId": "is-poi-mount-of-olives-5-20",
+          "title": "Mount of Olives",
+          "day": 5,
+          "startTime": "16:30",
+          "endTime": "17:45",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 31.7783,
+            "lon": 35.2436
+          }
+        },
+        {
+          "id": "is-day5-21",
+          "poiId": "is-poi-old-city-primer-contacto-5-21",
+          "title": "Old City “primer contacto”",
+          "day": 5,
+          "startTime": "18:15",
+          "endTime": "19:15",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 31.778,
+            "lon": 35.2335
+          }
+        },
+        {
+          "id": "is-day5-22",
+          "poiId": "is-poi-cena-paseo-mahane-yehuda-5-22",
+          "title": "Cena + paseo Mahane Yehuda",
+          "day": 5,
+          "startTime": "20:00",
+          "endTime": "22:00",
+          "priority": "must",
+          "entryType": "Gratis (consumo aparte)",
+          "ticketLink": "",
+          "location": {
+            "lat": 31.7857,
+            "lon": 35.2124
+          }
+        },
+        {
+          "id": "is-day6-23",
+          "poiId": "is-poi-masada-national-park-6-23",
+          "title": "Masada National Park",
+          "day": 6,
+          "startTime": "07:00",
+          "endTime": "10:00",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://en.parks.org.il/reserve-park/masada-national-park/",
+          "location": {
+            "lat": 31.3154,
+            "lon": 35.3535
+          }
+        },
+        {
+          "id": "is-day6-24",
+          "poiId": "is-poi-ein-gedi-nature-reserve-6-24",
+          "title": "Ein Gedi Nature Reserve",
+          "day": 6,
+          "startTime": "11:00",
+          "endTime": "13:30",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://en.parks.org.il/reserve-park/en-gedi-nature-reserve/",
+          "location": {
+            "lat": 31.4612,
+            "lon": 35.3893
+          }
+        },
+        {
+          "id": "is-day6-25",
+          "poiId": "is-poi-qumran-national-park-6-25",
+          "title": "Qumran National Park",
+          "day": 6,
+          "startTime": "14:30",
+          "endTime": "15:45",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://en.parks.org.il/reserve-park/qumran-park/",
+          "location": {
+            "lat": 31.742,
+            "lon": 35.458
+          }
+        },
+        {
+          "id": "is-day6-26",
+          "poiId": "is-poi-mar-muerto-6-26",
+          "title": "Mar Muerto",
+          "day": 6,
+          "startTime": "16:30",
+          "endTime": "18:00",
+          "priority": "optional",
+          "entryType": "Variable",
+          "ticketLink": "",
+          "location": {
+            "lat": 31.1996,
+            "lon": 35.363
+          }
+        },
+        {
+          "id": "is-day6-27",
+          "poiId": "is-poi-regreso-a-jerusal-n-6-27",
+          "title": "Regreso a Jerusalén",
+          "day": 6,
+          "startTime": "20:00",
+          "endTime": "21:00",
+          "priority": "optional",
+          "entryType": "—",
+          "ticketLink": "",
+          "location": {
+            "lat": 31.7683,
+            "lon": 35.2137
+          }
+        },
+        {
+          "id": "is-day7-28",
+          "poiId": "is-poi-old-city-walk-7-28",
+          "title": "Old City walk",
+          "day": 7,
+          "startTime": "08:30",
+          "endTime": "11:00",
+          "priority": "must",
+          "entryType": "Gratis",
+          "ticketLink": "",
+          "location": {
+            "lat": 31.778,
+            "lon": 35.2335
+          }
+        },
+        {
+          "id": "is-day7-29",
+          "poiId": "is-poi-western-wall-tunnels-7-29",
+          "title": "Western Wall Tunnels",
+          "day": 7,
+          "startTime": "11:30",
+          "endTime": "12:45",
+          "priority": "optional",
+          "entryType": "Reserva (a menudo sin costo)",
+          "ticketLink": "https://thekotel.org/en/tours/western-wall-tunnels/2/",
+          "location": {
+            "lat": 31.7767,
+            "lon": 35.2345
+          }
+        },
+        {
+          "id": "is-day7-30",
+          "poiId": "is-poi-davidson-archaeological-park-rea-sur-del-t-7-30",
+          "title": "Davidson Archaeological Park / área sur del Templo",
+          "day": 7,
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://cityofdavid.org.il/en/product/davidson-ticket/",
+          "location": {
+            "lat": 31.7722,
+            "lon": 35.2354
+          }
+        },
+        {
+          "id": "is-day7-31",
+          "poiId": "is-poi-city-of-david-7-31",
+          "title": "City of David",
+          "day": 7,
+          "startTime": "15:30",
+          "endTime": "18:30",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://cityofdavid.org.il/en/",
+          "location": {
+            "lat": 31.7717,
+            "lon": 35.2344
+          }
+        },
+        {
+          "id": "is-day7-32",
+          "poiId": "is-poi-tower-of-david-night-spectacular-7-32",
+          "title": "Tower of David – Night Spectacular",
+          "day": 7,
+          "startTime": "20:30",
+          "endTime": "21:30",
+          "priority": "must",
+          "entryType": "Pago",
+          "ticketLink": "https://www.tod.org.il/en/event/the-night-spectacular/",
+          "location": {
+            "lat": 31.7784,
+            "lon": 35.2271
+          }
+        }
+      ]
+    }
+  ]
+}

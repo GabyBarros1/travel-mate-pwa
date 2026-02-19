@@ -1,0 +1,768 @@
+{
+  "destinations": [
+    {
+      "tripId": "dubai",
+      "pois": [
+        {
+          "id": "dxb-poi-1",
+          "name": "Al Fahidi Historical District",
+          "description": "One of Dubai's oldest preserved neighborhoods, known for wind towers and courtyard homes.",
+          "era": "Late 19th to early 20th century",
+          "location": {
+            "lat": 25.2637,
+            "lon": 55.2971
+          },
+          "culturalInfo": "Al Fahidi Historical District, formerly known as Al Bastakiya, is one of the best places to understand Dubai before the era of modern skylines. The neighborhood developed as a merchant quarter, with homes built from coral stone, gypsum, sandalwood beams, and palm materials adapted to Gulf climate conditions. The famous wind towers, called barjeel, worked as passive cooling systems and represent a practical form of regional engineering long before mechanical air conditioning. Walking through its narrow sikkas, visitors can trace the social structure of old Dubai, where family homes, mosques, and trading spaces were integrated at human scale. Today, many restored buildings operate as museums, cultural centers, art spaces, and coffee houses, which means the district functions both as heritage preservation and a living public space. Its value is not just architectural; it reflects the maritime and trade connections that linked Dubai to Persia, India, and East Africa. Visiting Al Fahidi offers context for how a small creek settlement developed into a global city while still preserving symbols of identity and memory.",
+          "relevance": "Best starting point to understand old Dubai urban life."
+        },
+        {
+          "id": "dxb-poi-2",
+          "name": "Dubai Museum (Al Fahidi Fort)",
+          "description": "Historic fort turned museum presenting Dubai's pre-oil history and social life.",
+          "era": "Fort built in 1787",
+          "location": {
+            "lat": 25.263,
+            "lon": 55.2972
+          },
+          "culturalInfo": "Dubai Museum is housed inside Al Fahidi Fort, widely recognized as the oldest surviving structure in Dubai. Built in 1787 as a defensive installation near the creek, the fort later served as a residence, prison, and garrison before becoming a museum in the twentieth century. This layered function is important because it mirrors Dubai's transition from a fortified coastal settlement to an administrative and commercial center. Inside, dioramas, archaeological artifacts, and reconstructed scenes present pearl diving, desert travel, traditional housing, and souk culture, all central to local livelihoods before oil revenues transformed the economy. The underground galleries help visitors connect objects with everyday practices, from fishing tools and weapons to domestic ceramics and trade instruments. In heritage terms, the museum's significance lies in documenting social continuity: many values around hospitality, maritime enterprise, and adaptive architecture remain visible in Emirati life today. While the city around it has changed dramatically, Al Fahidi Fort anchors the historical timeline and provides a clear narrative of resilience, trade intelligence, and environmental adaptation in the Gulf region.",
+          "relevance": "Core reference for pre-oil Dubai history."
+        },
+        {
+          "id": "dxb-poi-3",
+          "name": "Dubai Creek and Abra Route",
+          "description": "Historic water corridor that shaped trade, migration, and urban growth in Dubai.",
+          "era": "Continuous use for centuries",
+          "location": {
+            "lat": 25.2698,
+            "lon": 55.2995
+          },
+          "culturalInfo": "Dubai Creek is the original economic artery of the city and the main reason early settlement concentrated in this area. Long before highways and airports, the creek connected merchants, fishermen, and travelers to regional trade routes across the Gulf and Indian Ocean. The traditional wooden abra crossing remains one of the most meaningful experiences because it preserves the everyday rhythm of movement between Bur Dubai and Deira, two districts shaped by commerce and migration. Historically, dhows carrying textiles, spices, and food products reinforced Dubai's role as an open port economy. The creek also structured social life: markets, warehouses, mosques, and homes developed around it, creating dense mixed-use neighborhoods where cultural exchange was constant. Even today, sounds, smells, and street activity near the water reveal how old and new Dubai coexist. Cultural relevance here is deeply urban: this is where infrastructure, labor, and identity meet. Observing the creek offers insight into why Dubai values connectivity, logistics, and openness to global flows while maintaining continuity with maritime traditions that predate modern development by generations.",
+          "relevance": "Essential to understand Dubai's trade DNA and urban origins."
+        },
+        {
+          "id": "dxb-poi-4",
+          "name": "Jumeirah Mosque",
+          "description": "Prominent mosque known for educational cultural tours and Fatimid-inspired architecture.",
+          "era": "Completed in 1979",
+          "location": {
+            "lat": 25.2322,
+            "lon": 55.2608
+          },
+          "culturalInfo": "Jumeirah Mosque is one of Dubai's most recognized religious landmarks and an important bridge for cultural dialogue. Built in a style inspired by traditional Fatimid architecture, it features twin minarets, a central dome, and elegant stone detailing that becomes especially striking at sunset. Beyond architecture, its broader cultural role comes from organized public visits designed to explain Islamic practices, etiquette, and values to residents and international visitors of many backgrounds. This educational function reflects a wider policy in the UAE: encouraging respectful understanding through direct engagement rather than distance. Inside the mosque, explanations about prayer routines, ablution, calligraphy, and community life reveal how religious spaces operate as social institutions, not only devotional ones. The site helps correct common stereotypes by presenting Islam in local context, including hospitality norms and the historical importance of mosques as centers of learning and welfare. In a city known for commercial scale and rapid growth, Jumeirah Mosque provides a calmer reference point tied to continuity, community structure, and civic coexistence. It is culturally relevant as both a sacred place and a practical platform for intercultural literacy.",
+          "relevance": "Key stop for understanding religion and social values in Dubai."
+        },
+        {
+          "id": "dxb-poi-5",
+          "name": "Al Shindagha Museum",
+          "description": "Large heritage museum district focused on Emirati life, perfume, and creek history.",
+          "era": "Historic quarter with modern curation",
+          "location": {
+            "lat": 25.2669,
+            "lon": 55.2921
+          },
+          "culturalInfo": "Al Shindagha Museum occupies one of the most historically important areas on Dubai Creek and has become a flagship institution for preserving Emirati heritage at district scale. Rather than a single building, it is a network of restored houses and thematic exhibitions that document governance, family life, craftsmanship, oral traditions, and maritime history. One of its most notable sections is the perfume house, where visitors learn how scent, incense, and botanical ingredients function in social rituals and personal identity across the Gulf. The museum's curatorial approach blends archival material with immersive storytelling, allowing guests to connect objects to lived practices instead of treating heritage as static decoration. This is valuable in a city where urban transformation can make historical continuity harder to perceive in daily life. By walking through Al Shindagha, visitors can understand how creek communities organized work, hospitality, and domestic life before modern infrastructure expanded. Its cultural relevance is high because it translates memory into public knowledge and supports intergenerational continuity, making local heritage accessible to both residents and global audiences in a structured, educational format.",
+          "relevance": "Most comprehensive place for Emirati cultural narratives in one area."
+        }
+      ]
+    },
+    {
+      "tripId": "new-york",
+      "pois": [
+        {
+          "id": "nyc-poi-rockefeller",
+          "name": "Rockefeller Plaza",
+          "description": "Iconic Midtown complex with public art, ice rink, and Art Deco heritage.",
+          "era": "1930s",
+          "location": {
+            "lat": 40.7587,
+            "lon": -73.9787
+          },
+          "culturalInfo": "Rockefeller Plaza is one of the clearest examples of New York's twentieth-century urban ambition. Built during the Great Depression, the complex combined commerce, media, and public space in a way that redefined Midtown Manhattan. The plaza became globally recognizable through seasonal rituals like the winter tree and ice rink, but its value goes beyond postcard symbolism. The architecture reflects Art Deco ideals: geometric forms, sculptural ornament, and the idea that a corporate district could still offer civic-scale spaces. For visitors, it works as a practical orientation point because many of the day-one landmarks are within walking distance. Culturally, Rockefeller Center represents how private development shaped shared urban memory. It is also tied to broadcast history, especially through NBC and nearby performance venues, making it a node where architecture, media, and tourism converge.",
+          "relevance": "Start point for classic Midtown route."
+        },
+        {
+          "id": "nyc-poi-radiocity",
+          "name": "Radio City Music Hall",
+          "description": "Historic entertainment venue known for stage productions and Art Deco interior design.",
+          "era": "1932",
+          "location": {
+            "lat": 40.7599,
+            "lon": -73.9793
+          },
+          "culturalInfo": "Radio City Music Hall is one of New York's most important performance landmarks and a cornerstone of American mass entertainment history. Opened in 1932, it was designed as a flagship venue within Rockefeller Center and quickly became famous for its grand scale, elegant Art Deco interiors, and high-production stage shows. The building's marquee is a visual icon of Midtown and an anchor for the neighborhood's theater identity. Even without entering, the facade and urban context tell a story about how New York built cultural infrastructure during economic uncertainty and then transformed it into long-term brand identity. Radio City also reflects the evolution of live performance technology, from cinema premieres to precision choreography and seasonal productions that became civic traditions. As a stop in your itinerary, it gives continuity between public plaza space and formal entertainment culture.",
+          "relevance": "Short but iconic stop for theater and design history."
+        },
+        {
+          "id": "nyc-poi-topofrock",
+          "name": "Top of the Rock",
+          "description": "Observation deck with panoramic views of Manhattan's urban grid and skyline.",
+          "era": "1933 onward",
+          "location": {
+            "lat": 40.7587,
+            "lon": -73.9787
+          },
+          "culturalInfo": "Top of the Rock offers one of the most informative skyline views in New York because it frames both Central Park to the north and the dense Midtown-Downtown corridor to the south. Unlike many viewpoints that focus on one landmark, this deck allows visitors to read the city's structure: street grid logic, variations in building age, and the distribution of commercial districts. Historically, observation decks were part of New York's vertical modernity narrative, turning height into public experience and civic spectacle. From this vantage, you can understand why Manhattan developed as a layered city where infrastructure, finance, culture, and housing coexist in tight proximity. It is not only a photo stop; it is a planning lesson in three dimensions. Seeing Empire State, Hudson corridors, and East River edges together helps contextualize later visits in the itinerary and makes walking routes feel coherent at street level.",
+          "relevance": "Best visual overview of Manhattan geography."
+        },
+        {
+          "id": "nyc-poi-stpatrick",
+          "name": "St. Patrick's Cathedral",
+          "description": "Neo-Gothic cathedral on Fifth Avenue and a major Catholic landmark.",
+          "era": "Completed 1879",
+          "location": {
+            "lat": 40.7585,
+            "lon": -73.976
+          },
+          "culturalInfo": "St. Patrick's Cathedral is one of the most meaningful symbolic contrasts in Midtown: a nineteenth-century Neo-Gothic religious structure standing amid luxury retail towers and modern corporate blocks. Its architecture, with pointed arches, stained glass, and vertical stone forms, evokes European ecclesiastical traditions adapted to New York's urban scale. Beyond design, the cathedral reflects waves of immigration, especially Irish and other Catholic communities, whose social and institutional life helped shape the city. Entering even briefly changes the rhythm of the day, offering a quiet interior where civic noise is replaced by ritual space, memory, and craftsmanship. In cultural terms, this stop highlights how New York layers identities rather than replacing them. The cathedral survives as active religious infrastructure while also functioning as a heritage landmark, making it a strong example of continuity within rapid urban transformation.",
+          "relevance": "Cultural contrast point between sacred and commercial Manhattan."
+        },
+        {
+          "id": "nyc-poi-5thave",
+          "name": "5th Avenue",
+          "description": "Historic avenue linking major cultural institutions, retail corridors, and civic landmarks.",
+          "era": "19th-21st centuries",
+          "location": {
+            "lat": 40.7549,
+            "lon": -73.984
+          },
+          "culturalInfo": "Walking Fifth Avenue is less about a single monument and more about understanding how New York organizes prestige, commerce, and public identity along one corridor. The avenue has evolved from elite residential boulevard to a global retail and institutional spine, where churches, libraries, flagship stores, and museums coexist within short walking distances. This layering makes it ideal for travelers because movement itself becomes part of the experience. Architecturally, Fifth Avenue presents a mix of masonry landmarks, modern glass towers, and adaptive facades that reveal different development eras. Socially, it demonstrates how tourism and local routines overlap: office workers, shoppers, students, and visitors share the same sidewalks. In itinerary terms, this segment ties together St. Patrick's, the public library, and Bryant Park while keeping orientation simple. Culturally, Fifth Avenue represents New York's ability to convert urban circulation into narrative, where every block adds historical context.",
+          "relevance": "Main axis connecting multiple day-one stops."
+        },
+        {
+          "id": "nyc-poi-nypl",
+          "name": "New York Public Library (Main Branch)",
+          "description": "Beaux-Arts library known for its reading room and civic knowledge mission.",
+          "era": "Opened 1911",
+          "location": {
+            "lat": 40.7532,
+            "lon": -73.9822
+          },
+          "culturalInfo": "The New York Public Library Main Branch is one of the city's strongest symbols of public knowledge and civic access. Its Beaux-Arts facade, monumental stair, and lion sculptures are familiar visual references, but the deeper value is institutional: free access to learning resources in a city defined by economic inequality and rapid change. Inside, the Rose Main Reading Room demonstrates how architecture can dignify study, concentration, and collective education. The building sits at a strategic urban hinge between Fifth Avenue movement and Bryant Park's open space, making it both a destination and a connective stop. Historically, the library reflects a period when philanthropy and municipal ambition invested in durable public infrastructure. For visitors, even a short entry provides cultural depth that balances the more commercial parts of Midtown. It reminds you that New York's identity is built not only on finance and entertainment, but also on public institutions that sustain intellectual life.",
+          "relevance": "Essential civic institution on the Midtown route."
+        },
+        {
+          "id": "nyc-poi-bryant",
+          "name": "Bryant Park",
+          "description": "Compact urban park behind NYPL, popular for lunch and seasonal programming.",
+          "era": "Redesigned late 20th century",
+          "location": {
+            "lat": 40.7536,
+            "lon": -73.9832
+          },
+          "culturalInfo": "Bryant Park is a model of urban public-space recovery: a small but highly programmed park that transformed from underused area into one of Midtown's most successful social spaces. Located directly behind the New York Public Library, it works as an everyday commons where office workers, students, tourists, and local residents share tables, lawns, and event zones. Its design emphasizes visibility, flexible seating, and continuous activity, which helps create a sense of comfort in a dense district. In itinerary logic, it is an ideal lunch and reset point between structured visits and longer walks north. Culturally, Bryant Park shows how management, programming, and design can revive a central urban site without losing openness. Seasonal markets, film nights, and winter installations also make it a place where civic life is continuously performed. It is less about monumentality and more about how New York turns limited space into high social value.",
+          "relevance": "Good pause point before moving uptown."
+        },
+        {
+          "id": "nyc-poi-centralpark",
+          "name": "Central Park",
+          "description": "Major urban park blending designed landscapes, lakes, bridges, and cultural gathering spaces.",
+          "era": "Opened 1858 onward",
+          "location": {
+            "lat": 40.7712,
+            "lon": -73.9742
+          },
+          "culturalInfo": "Central Park is one of the defining urban projects in modern city planning: a large designed landscape inserted into a rapidly industrializing grid to provide health, leisure, and social mixing at metropolitan scale. Its circulation paths, bridges, terraces, and water features were intentionally composed to create varied experiences within the same park, from scenic quiet areas to active civic nodes. On your route, locations like The Pond, Gapstow Bridge, Bethesda Terrace, and Bow Bridge offer a sequence of recognizable yet walkable highlights that do not require complex navigation. Culturally, Central Park functions as common ground across demographics, where local routines and global tourism overlap without strict separation. It also frames Manhattan visually and psychologically, giving relief from dense built form while remaining deeply urban. Visiting it in both day and late-afternoon contexts helps reveal why the park is not just a green space, but a living piece of New York's social and design infrastructure.",
+          "relevance": "Core green space for Day 1 and Day 3 transitions."
+        },
+        {
+          "id": "nyc-poi-timessq",
+          "name": "Times Square",
+          "description": "High-density entertainment crossroads known for billboards, theater culture, and night energy.",
+          "era": "20th-21st centuries",
+          "location": {
+            "lat": 40.758,
+            "lon": -73.9855
+          },
+          "culturalInfo": "Times Square is a concentrated expression of New York's spectacle economy, where media, theater, tourism, and public space are fused into a single high-intensity environment. The giant digital facades and constant movement create a visual rhythm that can feel chaotic, but that same density is why the area became globally iconic. Historically connected to Broadway and publishing, the district reinvented itself over decades through redevelopment, pedestrianization, and brand-driven urban design. Climbing the red TKTS steps gives a useful elevated perspective to read the space's geometry and crowd flow. Cultural relevance lies in contrast: Times Square is simultaneously commercial and democratic, heavily curated but still open to everyone. It captures the city's performative side, where identity is continuously staged through light, language, and circulation. Ending Day 1 here makes narrative sense, because it closes a route that moves from institutional Midtown to the most theatrical public image of New York.",
+          "relevance": "Best stop for evening atmosphere and iconic visuals."
+        },
+        {
+          "id": "nyc-poi-financial",
+          "name": "Financial District and Wall Street",
+          "description": "Historic district of early U.S. institutions and global finance headquarters.",
+          "era": "18th century onward",
+          "location": {
+            "lat": 40.7066,
+            "lon": -74.0098
+          },
+          "culturalInfo": "The Financial District offers one of the strongest historical contrasts in Manhattan: colonial-era street patterns hosting institutions that now influence global capital flows. Around Wall Street, visitors can connect early U.S. governance sites with contemporary finance infrastructure, understanding how political and economic power became spatially concentrated in Lower Manhattan. Landmarks like the New York Stock Exchange facade and nearby civic buildings are not only architectural stops; they represent systems that affect labor, savings, debt, and investment far beyond New York. The Charging Bull photo stop, while touristic, also reflects how symbols simplify complex market narratives into public imagery. Walking this area in the morning is practical and culturally rich because it sets context for the 9/11 Memorial and waterfront transitions later in the day. Overall, the district helps frame New York as a command center where historical nation-building and modern financial networks share the same urban footprint.",
+          "relevance": "Introduces Day 2 civic and economic history focus."
+        },
+        {
+          "id": "nyc-poi-911",
+          "name": "9/11 Memorial",
+          "description": "Memorial plaza honoring victims of the September 11 attacks at the World Trade Center site.",
+          "era": "Opened 2011",
+          "location": {
+            "lat": 40.7115,
+            "lon": -74.0134
+          },
+          "culturalInfo": "The 9/11 Memorial is one of the most emotionally significant public spaces in New York, designed to hold memory, loss, and civic resilience within an active business district. The twin reflecting pools mark the footprints of the former towers, and the engraved names around the edges transform a large tragedy into individual remembrance. Its design language is restrained, relying on water, void, and stone rather than monumental rhetoric, which makes short visits meaningful even without entering the museum. Culturally, the site shaped global conversations about security, urban recovery, and collective mourning in the twenty-first century. It also shows how New York integrates memory infrastructure into daily circulation: commuters, office workers, and visitors move through the area while engaging with a place of reflection. Including this stop in Day 2 balances sightseeing with historical awareness and gives ethical depth to the route through Lower Manhattan's civic and financial core.",
+          "relevance": "Key reflective stop in Lower Manhattan."
+        },
+        {
+          "id": "nyc-poi-ferry",
+          "name": "Staten Island Ferry Terminal",
+          "description": "Free public ferry route with excellent Statue of Liberty and harbor views.",
+          "era": "Modern service with historic harbor roots",
+          "location": {
+            "lat": 40.7012,
+            "lon": -74.0132
+          },
+          "culturalInfo": "The Staten Island Ferry is one of New York's most practical and culturally revealing transport experiences. As a free public route, it serves daily commuters while also giving visitors wide harbor views that usually require paid cruises. From the deck, the skyline profile, working waterfronts, and passing sightlines toward the Statue of Liberty help explain New York as a maritime city, not only a land of skyscrapers. The ride demonstrates how public infrastructure can deliver both utility and iconic perspective without premium pricing. It also creates a transition moment in Day 2, moving from dense Lower Manhattan streets to open water before returning to neighborhood-scale exploration. Culturally, the ferry reflects the city's social mix: tourists, residents, and workers sharing the same system. Choosing this option keeps your itinerary realistic in time and budget while preserving one of the most memorable visual experiences of the trip.",
+          "relevance": "Budget-friendly way to experience New York Harbor."
+        },
+        {
+          "id": "nyc-poi-seaport",
+          "name": "South Street Seaport",
+          "description": "Historic waterfront district with restored commercial buildings and riverfront views.",
+          "era": "19th century mercantile roots",
+          "location": {
+            "lat": 40.7062,
+            "lon": -74.0033
+          },
+          "culturalInfo": "South Street Seaport links New York's contemporary leisure economy with its nineteenth-century port history. The area once operated as a busy mercantile waterfront tied to shipping, trade, and warehouse activity; today, restored buildings, retail spaces, and pedestrian waterfront zones reinterpret that legacy for public use. As a lunch stop, it offers a calmer rhythm than Midtown while keeping strong visual connection to bridges, piers, and river traffic. The district is useful in itinerary design because it sits naturally between the ferry experience and the Brooklyn Bridge crossing. Culturally, Seaport illustrates how cities repurpose industrial and maritime infrastructure into mixed-use heritage zones. While some parts are highly curated, the location still communicates the geographic logic of Lower Manhattan's growth and its long relationship with waterborne commerce. Spending an hour here helps reset energy while preserving thematic continuity with the day's focus on memory, mobility, and urban transformation.",
+          "relevance": "Relaxed lunch and harbor stop between major walks."
+        },
+        {
+          "id": "nyc-poi-bbridge",
+          "name": "Brooklyn Bridge",
+          "description": "Historic suspension bridge connecting Manhattan and Brooklyn with iconic skyline views.",
+          "era": "Opened 1883",
+          "location": {
+            "lat": 40.7061,
+            "lon": -73.9969
+          },
+          "culturalInfo": "Crossing the Brooklyn Bridge on foot is one of the most rewarding urban walks in New York because it combines engineering heritage, skyline perspective, and neighborhood transition in a single experience. Opened in 1883, the bridge was a major technological achievement of its era, and its stone towers and cable geometry remain visually powerful today. Walking from Manhattan toward Brooklyn allows you to watch the skyline recede while new vantage points open across the East River. The path is active but straightforward, making it accessible for most travelers. In cultural terms, the bridge is both infrastructure and symbol: it represents connection between boroughs, social mobility, and the city's capacity to scale public works. As part of Day 2, it also shifts the itinerary from institutions and memorial spaces toward street-level neighborhood life in DUMBO. The result is a balanced route that mixes history, movement, and open-air city reading.",
+          "relevance": "Signature walk and transition to Brooklyn."
+        },
+        {
+          "id": "nyc-poi-dumbo",
+          "name": "DUMBO",
+          "description": "Brooklyn neighborhood known for converted industrial buildings, waterfront parks, and bridge views.",
+          "era": "Industrial roots, post-1990s cultural redevelopment",
+          "location": {
+            "lat": 40.7033,
+            "lon": -73.9881
+          },
+          "culturalInfo": "DUMBO, short for Down Under the Manhattan Bridge Overpass, is one of Brooklyn's most recognizable waterfront districts and a strong example of industrial-to-cultural urban transformation. Former warehouses and manufacturing buildings now host creative offices, residences, galleries, and retail, while nearby parks provide open riverfront access with dramatic skyline views. The classic photo axis under the Manhattan Bridge is popular for good reason: it frames infrastructure, architecture, and neighborhood texture in one composition. Beyond photography, DUMBO offers a slower pace after the bridge crossing and works well for late-afternoon exploration or sunset. Culturally, the area reflects broader New York patterns of adaptive reuse, where post-industrial spaces become mixed economies tied to design, media, and tourism. Including DUMBO in Day 2 makes logistical and narrative sense, because it extends the harbor and bridge theme while adding a distinct Brooklyn identity before returning to Midtown.",
+          "relevance": "Best location for bridge framing photos and sunset views."
+        },
+        {
+          "id": "nyc-poi-gct",
+          "name": "Grand Central Terminal",
+          "description": "Historic rail terminal and civic interior connecting regional mobility and Midtown circulation.",
+          "era": "Opened 1913",
+          "location": {
+            "lat": 40.7527,
+            "lon": -73.9772
+          },
+          "culturalInfo": "Grand Central Terminal is one of New York's most important mobility and civic landmarks. Beyond functioning as a major transit hub, it offers an architectural experience that combines Beaux-Arts grandeur with efficient circulation. The main concourse, celestial ceiling, and layered passageways show how transportation infrastructure can carry cultural meaning, not just utility. In your itinerary, Grand Central is strategically important because it anchors movement between Carmel, Midtown, and downtown destinations over all three days. That repeat use is valuable: each return reinforces spatial orientation and reduces logistical stress. Historically, the terminal shaped commuting patterns across the region and helped define Midtown as a business core. Its preservation is also significant, since public campaigns prevented demolition and established it as a model for protecting living infrastructure. As a recurring waypoint, Grand Central gives continuity to the trip and connects daily exploration with the broader regional system.",
+          "relevance": "Primary arrival/return node for your three-day plan."
+        },
+        {
+          "id": "nyc-poi-soho",
+          "name": "SoHo",
+          "description": "Historic cast-iron district known for design retail, galleries, and walkable streets.",
+          "era": "19th-century industrial fabric, 20th-century cultural reuse",
+          "location": {
+            "lat": 40.7233,
+            "lon": -74.003
+          },
+          "culturalInfo": "SoHo is one of New York's most recognizable neighborhood transformations, where a former manufacturing district evolved into a global reference for design, retail, and street-level urban culture. Its cast-iron architecture is the key heritage layer: repetitive facades, large windows, and loft structures originally built for industry now house boutiques, studios, and creative businesses. Walking SoHo in the morning works well because streets are active but manageable, and the district's compact grid supports exploration without complex routing. Culturally, SoHo illustrates a larger city pattern of adaptive reuse, where economic shifts turn obsolete industrial stock into high-value mixed-use areas. The neighborhood is also a useful transition point toward Chinatown, showing how adjacent districts can differ radically in language, commerce, and public life within short walking distance. Starting Day 3 here sets a strong tone of urban texture, architecture, and social contrast before museum and uptown segments.",
+          "relevance": "Day 3 neighborhood immersion start."
+        },
+        {
+          "id": "nyc-poi-chinatown",
+          "name": "Chinatown",
+          "description": "Dense cultural district centered on food culture, migration networks, and street commerce.",
+          "era": "Late 19th century onward",
+          "location": {
+            "lat": 40.7158,
+            "lon": -73.997
+          },
+          "culturalInfo": "Chinatown is one of Manhattan's most vibrant migration landscapes, where language, food systems, and family-run commerce shape a distinct street culture. Markets, bakeries, herbal shops, and casual restaurants create an environment that feels different from surrounding districts in rhythm, signage, and sensory experience. Historically, the area grew through successive migration waves under difficult legal and social conditions, making it both a cultural anchor and a story of resilience. For your itinerary, Chinatown works as a natural follow-up to SoHo because the transition is walkable and highlights neighborhood contrast in a short distance. It is also practical for lunch, with many fast and affordable options. Culturally, this stop adds depth beyond landmarks: it shows how everyday economic activity preserves identity and community networks over generations. Spending time here supports a fuller understanding of New York as a city built by layered immigrant geographies.",
+          "relevance": "Core stop for Day 3 culture + lunch."
+        },
+        {
+          "id": "nyc-poi-met",
+          "name": "The Metropolitan Museum of Art",
+          "description": "Major art museum with global collections across civilizations and periods.",
+          "era": "Founded 1870",
+          "location": {
+            "lat": 40.7794,
+            "lon": -73.9632
+          },
+          "culturalInfo": "The Metropolitan Museum of Art is one of the most influential museums in the world and a central institution in New York's cultural ecosystem. Its collections span thousands of years and multiple geographies, allowing visitors to build thematic links between ancient civilizations, religious traditions, decorative arts, and modern visual culture. For a focused two-hour stop, sections like the Temple of Dendur and European painting galleries provide strong historical range without fatigue. The museum's location along Fifth Avenue and Central Park also reinforces the city's integration of culture and urban landscape. Beyond display quality, the Met is relevant because it shapes public education, tourism, and scholarly debate, including contemporary discussions on provenance and representation. In Day 3, it functions as the intellectual core of the route, balancing neighborhood exploration with structured learning. A visit here situates New York not just as a financial or media capital, but as a long-term global center for cultural interpretation.",
+          "relevance": "Main Day 3 anchor for long-form cultural visit."
+        },
+        {
+          "id": "nyc-poi-seinfeld",
+          "name": "Tom's Restaurant (Seinfeld Corner)",
+          "description": "Famous Upper West Side diner exterior associated with the TV series Seinfeld.",
+          "era": "Late 20th-century pop culture landmark",
+          "location": {
+            "lat": 40.8056,
+            "lon": -73.9669
+          },
+          "culturalInfo": "Tom's Restaurant, known globally as the 'Seinfeld corner,' is a pop-culture landmark where television memory and real city geography intersect. While many visitors only stop briefly for photos, the site captures an important aspect of New York's cultural export: neighborhoods becoming globally legible through film and TV narratives. Located on the Upper West Side, the stop also works logistically after the Met, especially if you cross or edge Central Park on foot. This makes the visit feel integrated rather than forced. The place itself is modest compared with monumental landmarks, but that is part of its appeal; it represents everyday urban texture elevated by shared media references. In itinerary terms, it introduces a lighter tone near the end of Day 3 while still adding cultural meaning. Including Tom's acknowledges that city identity is built not only by institutions and architecture, but also by stories people carry from screen culture into physical space.",
+          "relevance": "Light final stop combining TV memory with neighborhood walk."
+        }
+      ]
+    },
+    {
+      "tripId": "buenos-aires",
+      "pois": [
+        {
+          "id": "ba-poi-1",
+          "name": "Plaza de Mayo",
+          "description": "Historic square at the civic heart of Buenos Aires.",
+          "era": "18th century onward",
+          "location": {
+            "lat": -34.6081,
+            "lon": -58.3702
+          },
+          "culturalInfo": "Plaza de Mayo is the symbolic civic center of Buenos Aires and one of the most politically charged public spaces in Argentina. Since colonial times, the square has hosted major national events, from independence-era ceremonies to contemporary demonstrations. The surrounding institutions, including the Cathedral, Cabildo, and government buildings, turn this plaza into a living archive of state formation and public memory. Its cultural relevance extends beyond architecture: social movements, especially the Madres de Plaza de Mayo, transformed the square into a global reference for human-rights activism and collective remembrance. Walking through the area provides context for how Argentine identity has been negotiated in public, often through protest, commemoration, and civic ritual. As a starting point, Plaza de Mayo helps visitors connect history, politics, and urban space in a clear and immediate way.",
+          "relevance": "Best first stop to understand civic history in Buenos Aires."
+        },
+        {
+          "id": "ba-poi-2",
+          "name": "Casa Rosada",
+          "description": "Presidential palace and iconic political landmark.",
+          "era": "Main form from late 19th century",
+          "location": {
+            "lat": -34.6081,
+            "lon": -58.3702
+          },
+          "culturalInfo": "Casa Rosada, the pink presidential palace facing Plaza de Mayo, is one of Argentina's most recognizable political symbols. Its architecture combines institutional grandeur with traces of nineteenth-century nation-building, while its balcony became internationally famous through key presidential speeches and public mobilizations. The building represents both continuity and conflict in Argentine political life, reflecting alternating periods of democratic expansion, crisis, and social debate. Visitors often recognize the facade from historical media, but standing in front of it reveals how closely executive power is tied to the city's public square. In cultural terms, Casa Rosada is not only an administrative seat; it is a stage where leadership, symbolism, and public expectations intersect. Including this stop after Plaza de Mayo gives narrative coherence to the route and helps interpret the surrounding district as an active center of state memory and contemporary governance.",
+          "relevance": "Core landmark for Argentine political memory."
+        },
+        {
+          "id": "ba-poi-3",
+          "name": "San Telmo Market",
+          "description": "Historic market area known for antiques, food, and tango atmosphere.",
+          "era": "19th century urban district",
+          "location": {
+            "lat": -34.6211,
+            "lon": -58.3731
+          },
+          "culturalInfo": "San Telmo Market and its surrounding streets represent one of the most distinctive neighborhood cultures in Buenos Aires. The district preserves colonial and nineteenth-century urban fabric, with low-rise buildings, internal courtyards, and narrow streets that contrast sharply with the modern business core. The market itself evolved from a traditional supply space into a mixed environment of gastronomy, antiques, design stalls, and local crafts, reflecting how heritage can remain economically active. Beyond commerce, San Telmo is deeply associated with tango, street performance, and weekend public life, which gives the area a strong cultural identity rooted in both memory and everyday practice. For visitors, this stop offers direct sensory experience: music, food, and architecture layered in a compact walkable area. It is especially valuable in an itinerary because it shows Buenos Aires beyond formal monuments, emphasizing neighborhood scale, social interaction, and the city's long tradition of cultural mixing.",
+          "relevance": "Best neighborhood stop for local atmosphere and cultural street life."
+        },
+        {
+          "id": "ba-poi-4",
+          "name": "Teatro Colon",
+          "description": "World-renowned opera house with exceptional acoustics and architecture.",
+          "era": "Opened 1908",
+          "location": {
+            "lat": -34.601,
+            "lon": -58.3831
+          },
+          "culturalInfo": "Teatro Colon is one of the most celebrated opera houses in the world and a cornerstone of Buenos Aires' cultural prestige. Opened in 1908, the theater reflects the city's early twentieth-century ambition to position itself as a major international capital, especially through investment in music, architecture, and public institutions. Its interior combines Italian, French, and local influences, while its acoustics are widely considered among the best globally. Even a short visit to the exterior and foyer area conveys the scale of civic commitment to performing arts during Argentina's modernizing period. Culturally, Teatro Colon represents the intersection of elite patronage and public cultural life, since generations of residents have experienced opera, ballet, and symphonic repertoire here. Including it in the route adds a strong institutional counterpart to neighborhood-focused stops like San Telmo, creating a balanced view of Buenos Aires as both popular and formally artistic in identity.",
+          "relevance": "Essential stop for performing arts and architectural heritage."
+        },
+        {
+          "id": "ba-poi-5",
+          "name": "Recoleta Cemetery",
+          "description": "Monumental cemetery and heritage district with major historical figures.",
+          "era": "Opened 1822",
+          "location": {
+            "lat": -34.5875,
+            "lon": -58.3934
+          },
+          "culturalInfo": "Recoleta Cemetery is one of Buenos Aires' most distinctive heritage sites, known for its dense concentration of mausoleums, sculptural memorials, and funerary architecture. Rather than a conventional cemetery, it reads like a miniature city of memory, where family vaults document social hierarchy, artistic trends, and political history across two centuries. Many national figures are buried here, including Eva Peron, which adds strong symbolic relevance for local and international visitors. The surrounding Recoleta area reinforces the historical atmosphere with museums, civic plazas, and cultural institutions, making this stop more than a single monument. Walking through the cemetery helps explain how Argentina represents lineage, status, and national remembrance in built form. As a final point in the Buenos Aires route, Recoleta provides reflective closure: it links architecture, biography, and collective identity in a setting where history is materially visible at every turn.",
+          "relevance": "Strong final stop combining memory, art, and national history."
+        }
+      ]
+    },
+    {
+      "tripId": "israel",
+      "pois": [
+        {
+          "id": "is-poi-old-jaffa-1-1",
+          "name": "Old Jaffa",
+          "description": "Parada del Día 1: Old Jaffa.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.0545,
+            "lon": 34.7522
+          },
+          "culturalInfo": "Old Jaffa es una actividad del Día 1 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Old Jaffa y fue planificada con una duración estimada de 2h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 1."
+        },
+        {
+          "id": "is-poi-jaffa-port-1-2",
+          "name": "Jaffa Port",
+          "description": "Parada del Día 1: Jaffa Port.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.0507,
+            "lon": 34.7504
+          },
+          "culturalInfo": "Jaffa Port es una actividad del Día 1 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Jaffa Port y fue planificada con una duración estimada de 1h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 1."
+        },
+        {
+          "id": "is-poi-flea-market-1-3",
+          "name": "Flea Market",
+          "description": "Parada del Día 1: Jaffa.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.054,
+            "lon": 34.7585
+          },
+          "culturalInfo": "Flea Market es una actividad del Día 1 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Jaffa y fue planificada con una duración estimada de 1h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 1."
+        },
+        {
+          "id": "is-poi-neve-tzedek-1-4",
+          "name": "Neve Tzedek",
+          "description": "Parada del Día 1: Neve Tzedek.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.0649,
+            "lon": 34.767
+          },
+          "culturalInfo": "Neve Tzedek es una actividad del Día 1 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Neve Tzedek y fue planificada con una duración estimada de 1h 15m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 1."
+        },
+        {
+          "id": "is-poi-florentin-1-5",
+          "name": "Florentin",
+          "description": "Parada del Día 1: Florentin.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.0561,
+            "lon": 34.7693
+          },
+          "culturalInfo": "Florentin es una actividad del Día 1 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Florentin y fue planificada con una duración estimada de 1h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 1."
+        },
+        {
+          "id": "is-poi-caesarea-national-park-2-6",
+          "name": "Caesarea National Park",
+          "description": "Parada del Día 2: Caesarea.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.5045,
+            "lon": 34.8922
+          },
+          "culturalInfo": "Caesarea National Park es una actividad del Día 2 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Caesarea y fue planificada con una duración estimada de 3h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 2."
+        },
+        {
+          "id": "is-poi-german-colony-2-7",
+          "name": "German Colony",
+          "description": "Parada del Día 2: Haifa.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.8214,
+            "lon": 34.9896
+          },
+          "culturalInfo": "German Colony es una actividad del Día 2 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Haifa y fue planificada con una duración estimada de 1h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 2."
+        },
+        {
+          "id": "is-poi-bah-gardens-2-8",
+          "name": "Bahá’í Gardens",
+          "description": "Parada del Día 2: Haifa.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.8169,
+            "lon": 34.9863
+          },
+          "culturalInfo": "Bahá’í Gardens es una actividad del Día 2 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Haifa y fue planificada con una duración estimada de 1h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 2."
+        },
+        {
+          "id": "is-poi-haifa-waterfront-cena-2-9",
+          "name": "Haifa waterfront / cena",
+          "description": "Parada del Día 2: Haifa Port area.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.8329,
+            "lon": 34.9985
+          },
+          "culturalInfo": "Haifa waterfront / cena es una actividad del Día 2 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Haifa Port area y fue planificada con una duración estimada de 1h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 2."
+        },
+        {
+          "id": "is-poi-tel-megiddo-3-10",
+          "name": "Tel Megiddo",
+          "description": "Parada del Día 3: Jezreel Valley.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.5843,
+            "lon": 35.1832
+          },
+          "culturalInfo": "Tel Megiddo es una actividad del Día 3 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Jezreel Valley y fue planificada con una duración estimada de 2h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 3."
+        },
+        {
+          "id": "is-poi-nazareth-village-3-11",
+          "name": "Nazareth Village",
+          "description": "Parada del Día 3: Nazareth.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.6996,
+            "lon": 35.3035
+          },
+          "culturalInfo": "Nazareth Village es una actividad del Día 3 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Nazareth y fue planificada con una duración estimada de 2h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 3."
+        },
+        {
+          "id": "is-poi-bas-lica-de-la-anunciaci-n-3-12",
+          "name": "Basílica de la Anunciación",
+          "description": "Parada del Día 3: Nazareth.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.7044,
+            "lon": 35.2976
+          },
+          "culturalInfo": "Basílica de la Anunciación es una actividad del Día 3 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Nazareth y fue planificada con una duración estimada de 1h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 3."
+        },
+        {
+          "id": "is-poi-cena-en-nazaret-traslado-a-tiber-ades-3-13",
+          "name": "Cena en Nazaret / traslado a Tiberíades",
+          "description": "Parada del Día 3: Nazareth/Tiberias.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.6996,
+            "lon": 35.3035
+          },
+          "culturalInfo": "Cena en Nazaret / traslado a Tiberíades es una actividad del Día 3 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Nazareth/Tiberias y fue planificada con una duración estimada de 1h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 3."
+        },
+        {
+          "id": "is-poi-capernaum-ruinas-sinagoga-4-14",
+          "name": "Capernaum – ruinas + sinagoga",
+          "description": "Parada del Día 4: North shore, Sea of Galilee.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.8804,
+            "lon": 35.5731
+          },
+          "culturalInfo": "Capernaum – ruinas + sinagoga es una actividad del Día 4 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en North shore, Sea of Galilee y fue planificada con una duración estimada de 2h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 4."
+        },
+        {
+          "id": "is-poi-tabgha-4-15",
+          "name": "Tabgha",
+          "description": "Parada del Día 4: Tabgha.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.8729,
+            "lon": 35.5451
+          },
+          "culturalInfo": "Tabgha es una actividad del Día 4 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Tabgha y fue planificada con una duración estimada de 1h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 4."
+        },
+        {
+          "id": "is-poi-mount-of-beatitudes-4-16",
+          "name": "Mount of Beatitudes",
+          "description": "Parada del Día 4: Near Tabgha.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.884,
+            "lon": 35.5483
+          },
+          "culturalInfo": "Mount of Beatitudes es una actividad del Día 4 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Near Tabgha y fue planificada con una duración estimada de 45m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 4."
+        },
+        {
+          "id": "is-poi-magdala-4-17",
+          "name": "Magdala",
+          "description": "Parada del Día 4: Migdal/Magdala.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.8308,
+            "lon": 35.5048
+          },
+          "culturalInfo": "Magdala es una actividad del Día 4 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Migdal/Magdala y fue planificada con una duración estimada de 1h 15m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 4."
+        },
+        {
+          "id": "is-poi-paseo-tiberias-waterfront-cena-4-18",
+          "name": "Paseo Tiberias waterfront + cena",
+          "description": "Parada del Día 4: Tiberias.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.79,
+            "lon": 35.5316
+          },
+          "culturalInfo": "Paseo Tiberias waterfront + cena es una actividad del Día 4 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Tiberias y fue planificada con una duración estimada de 2h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 4."
+        },
+        {
+          "id": "is-poi-bet-she-an-national-park-5-19",
+          "name": "Bet She’an National Park",
+          "description": "Parada del Día 5: Beit She’an.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 32.4996,
+            "lon": 35.498
+          },
+          "culturalInfo": "Bet She’an National Park es una actividad del Día 5 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Beit She’an y fue planificada con una duración estimada de 3h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 5."
+        },
+        {
+          "id": "is-poi-mount-of-olives-5-20",
+          "name": "Mount of Olives",
+          "description": "Parada del Día 5: Jerusalem.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.7783,
+            "lon": 35.2436
+          },
+          "culturalInfo": "Mount of Olives es una actividad del Día 5 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Jerusalem y fue planificada con una duración estimada de 1h 15m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 5."
+        },
+        {
+          "id": "is-poi-old-city-primer-contacto-5-21",
+          "name": "Old City “primer contacto”",
+          "description": "Parada del Día 5: Old City.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.778,
+            "lon": 35.2335
+          },
+          "culturalInfo": "Old City “primer contacto” es una actividad del Día 5 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Old City y fue planificada con una duración estimada de 1h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 5."
+        },
+        {
+          "id": "is-poi-cena-paseo-mahane-yehuda-5-22",
+          "name": "Cena + paseo Mahane Yehuda",
+          "description": "Parada del Día 5: Mahane Yehuda.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.7857,
+            "lon": 35.2124
+          },
+          "culturalInfo": "Cena + paseo Mahane Yehuda es una actividad del Día 5 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Mahane Yehuda y fue planificada con una duración estimada de 2h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 5."
+        },
+        {
+          "id": "is-poi-masada-national-park-6-23",
+          "name": "Masada National Park",
+          "description": "Parada del Día 6: Masada.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.3154,
+            "lon": 35.3535
+          },
+          "culturalInfo": "Masada National Park es una actividad del Día 6 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Masada y fue planificada con una duración estimada de 3h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 6."
+        },
+        {
+          "id": "is-poi-ein-gedi-nature-reserve-6-24",
+          "name": "Ein Gedi Nature Reserve",
+          "description": "Parada del Día 6: Ein Gedi.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.4612,
+            "lon": 35.3893
+          },
+          "culturalInfo": "Ein Gedi Nature Reserve es una actividad del Día 6 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Ein Gedi y fue planificada con una duración estimada de 2h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 6."
+        },
+        {
+          "id": "is-poi-qumran-national-park-6-25",
+          "name": "Qumran National Park",
+          "description": "Parada del Día 6: Qumran.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.742,
+            "lon": 35.458
+          },
+          "culturalInfo": "Qumran National Park es una actividad del Día 6 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Qumran y fue planificada con una duración estimada de 1h 15m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 6."
+        },
+        {
+          "id": "is-poi-mar-muerto-6-26",
+          "name": "Mar Muerto",
+          "description": "Parada del Día 6: Ein Bokek area.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.1996,
+            "lon": 35.363
+          },
+          "culturalInfo": "Mar Muerto es una actividad del Día 6 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Ein Bokek area y fue planificada con una duración estimada de 1h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 6."
+        },
+        {
+          "id": "is-poi-regreso-a-jerusal-n-6-27",
+          "name": "Regreso a Jerusalén",
+          "description": "Parada del Día 6: Jerusalem.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.7683,
+            "lon": 35.2137
+          },
+          "culturalInfo": "Regreso a Jerusalén es una actividad del Día 6 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Jerusalem y fue planificada con una duración estimada de 1h+, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 6."
+        },
+        {
+          "id": "is-poi-old-city-walk-7-28",
+          "name": "Old City walk",
+          "description": "Parada del Día 7: Old City.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.778,
+            "lon": 35.2335
+          },
+          "culturalInfo": "Old City walk es una actividad del Día 7 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Old City y fue planificada con una duración estimada de 2h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 7."
+        },
+        {
+          "id": "is-poi-western-wall-tunnels-7-29",
+          "name": "Western Wall Tunnels",
+          "description": "Parada del Día 7: Old City.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.7767,
+            "lon": 35.2345
+          },
+          "culturalInfo": "Western Wall Tunnels es una actividad del Día 7 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Old City y fue planificada con una duración estimada de 1h 15m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 7."
+        },
+        {
+          "id": "is-poi-davidson-archaeological-park-rea-sur-del-t-7-30",
+          "name": "Davidson Archaeological Park / área sur del Templo",
+          "description": "Parada del Día 7: Near Dung Gate.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.7722,
+            "lon": 35.2354
+          },
+          "culturalInfo": "Davidson Archaeological Park / área sur del Templo es una actividad del Día 7 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Near Dung Gate y fue planificada con una duración estimada de 1h 30m, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 7."
+        },
+        {
+          "id": "is-poi-city-of-david-7-31",
+          "name": "City of David",
+          "description": "Parada del Día 7: City of David.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.7717,
+            "lon": 35.2344
+          },
+          "culturalInfo": "City of David es una actividad del Día 7 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en City of David y fue planificada con una duración estimada de 3h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 7."
+        },
+        {
+          "id": "is-poi-tower-of-david-night-spectacular-7-32",
+          "name": "Tower of David – Night Spectacular",
+          "description": "Parada del Día 7: Jaffa Gate.",
+          "era": "Historical / Contemporary",
+          "location": {
+            "lat": 31.7784,
+            "lon": 35.2271
+          },
+          "culturalInfo": "Tower of David – Night Spectacular es una actividad del Día 7 en tu itinerario de Israel. Esta visita aporta contexto histórico, cultural y territorial en una ruta diseñada para mantener equilibrio entre arqueología, patrimonio religioso y logística realista. La parada está ubicada en Jaffa Gate y fue planificada con una duración estimada de 1h, lo que facilita combinar traslado, observación y descanso.",
+          "relevance": "Actividad del Día 7."
+        }
+      ]
+    }
+  ]
+}

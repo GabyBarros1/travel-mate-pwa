@@ -1,0 +1,9 @@
+{
+  "name": "Travel Mate - Offline Assistant",
+  "short_name": "Travel Mate",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f2f7f9",
+  "theme_color": "#0e4d64",
+  "description": "Offline-first travel assistant with itinerary and cultural POI recommendations."
+}

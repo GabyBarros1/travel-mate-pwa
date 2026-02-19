@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-label="Israel travel cover">
+  <defs>
+    <linearGradient id="gi" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7eb8ff"/>
+      <stop offset="100%" stop-color="#f8fbff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="680" fill="url(#gi)"/>
+  <rect y="490" width="1200" height="190" fill="#e7edf5"/>
+  <g fill="#1e3a55" opacity="0.95">
+    <rect x="90" y="250" width="120" height="240"/>
+    <rect x="245" y="190" width="105" height="300"/>
+    <rect x="380" y="220" width="140" height="270"/>
+    <rect x="555" y="165" width="125" height="325"/>
+    <rect x="715" y="235" width="120" height="255"/>
+    <rect x="865" y="195" width="140" height="295"/>
+  </g>
+  <text x="60" y="92" fill="#102a43" font-family="Arial, sans-serif" font-size="54" font-weight="700">Israel Cultural Journey</text>
+  <text x="60" y="136" fill="#1a4364" font-family="Arial, sans-serif" font-size="30">Sacred sites, ancient history, and coastal urban life</text>
+</svg>

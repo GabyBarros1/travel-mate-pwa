@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#0e4d64" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Travel Mate" />
+  <title>Travel Mate</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <header class="app-header">
+      <h1>Travel Mate</h1>
+      <p class="subtitle">Offline-first cultural travel assistant</p>
+    </header>
+
+    <section class="card" aria-live="polite">
+      <h2>Status</h2>
+      <div class="status-grid">
+        <div>
+          <p class="label">Current time</p>
+          <p id="current-time" class="value">--</p>
+        </div>
+        <div>
+          <p class="label">Connection</p>
+          <p id="network-status" class="value">--</p>
+        </div>
+        <div>
+          <p class="label">Active trip</p>
+          <p id="active-trip" class="value">--</p>
+        </div>
+        <div>
+          <p class="label">Selection mode</p>
+          <p id="selection-mode" class="value">Auto</p>
+        </div>
+        <div>
+          <p class="label">Trip day</p>
+          <p id="trip-day" class="value">Day 1</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="card" aria-live="polite">
+      <h2>Current Location</h2>
+      <p id="current-location">Getting GPS position...</p>
+    </section>
+
+    <section class="card" aria-live="polite">
+      <h2>Trip Cover</h2>
+      <article id="trip-cover">
+        <p>Loading trip cover...</p>
+      </article>
+    </section>
+
+    <section class="card" aria-live="polite">
+      <h2>Next Recommended Activity</h2>
+      <p id="next-activity" class="value">Evaluating itinerary...</p>
+      <p id="activity-distance" class="muted"></p>
+      <p id="walking-time" class="muted"></p>
+      <p id="activity-entry" class="muted"></p>
+      <p id="route-summary" class="muted"></p>
+      <div id="route-links" class="route-links"></div>
+      <div id="ticket-links" class="route-links"></div>
+      <p id="next-review" class="long-copy"></p>
+    </section>
+
+    <section class="card" aria-live="polite">
+      <h2>Map Preview</h2>
+      <iframe
+        id="map-preview"
+        class="map-frame"
+        title="Route map preview"
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+      <div id="map-links" class="route-links"></div>
+    </section>
+
+    <section class="card" aria-live="polite">
+      <h2>Trip Itinerary</h2>
+      <article id="trip-itinerary">
+        <p>Loading itinerary...</p>
+      </article>
+    </section>
+
+    <section class="card" aria-live="polite">
+      <h2>Nearby Cultural Points</h2>
+      <article id="cultural-card">
+        <p>Searching nearby POIs within 150m...</p>
+      </article>
+    </section>
+
+    <section class="card" aria-live="polite">
+      <h2>Trip Cultural Guide</h2>
+      <article id="trip-guide">
+        <p>Waiting for location to load your destination guide...</p>
+      </article>
+    </section>
+
+    <section class="card settings">
+      <h2>Settings</h2>
+      <label for="trip-selector">Trip selection</label>
+      <select id="trip-selector">
+        <option value="auto">Auto (by GPS)</option>
+      </select>
+      <label for="day-selector">Day of trip</label>
+      <select id="day-selector">
+        <option value="1">Day 1</option>
+      </select>
+      <label for="radius-input">POI search radius (meters)</label>
+      <input id="radius-input" type="number" min="50" step="10" value="150" />
+      <button id="refresh-btn" type="button">Refresh Recommendations</button>
+    </section>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
